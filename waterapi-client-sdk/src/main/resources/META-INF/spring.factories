@@ -1,0 +1,2 @@
+# spring boot starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.aqua.waterapi_client_sdk.WaterApiClientConfig
